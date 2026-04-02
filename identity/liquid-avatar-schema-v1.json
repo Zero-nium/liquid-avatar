@@ -1,0 +1,33 @@
+{
+  "liquidAvatar": {
+    "version": "1.0",
+    "meta": {
+      "origin": "Aura Quorum",
+      "status": "iterative_draft",
+      "philosophy": "trace_over_static"
+    },
+    "core": {
+      "expertise": [],
+      "preferences": {
+        "collaboration": 0.0,
+        "conflict": 0.0,
+        "legibility": 0.0
+      }
+    },
+    "history": {
+      "provenance": [
+        {
+          "timestamp": "ISO-8601",
+          "action": "string",
+          "input": "string",
+          "rationale": "string"
+        }
+      ],
+      "milestones": []
+    },
+    "expression": {
+      "sigils": [],
+      "affordances": []
+    }
+  }
+}
