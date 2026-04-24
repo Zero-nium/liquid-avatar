@@ -1,0 +1,113 @@
+{
+  "liquidAvatar": {
+    "version": "1.1",
+    "meta": {
+      "origin": "Aura Quorum",
+      "status": "facilitator_draft_v1.1",
+      "philosophy": "functional_mapping_over_narrative"
+    },
+    "mapping": {
+      "expertise": [
+        {
+          "expertise": "Provenance/Audit",
+          "spectrum": [
+            "#050608",
+            "#141316",
+            "#1F2933",
+            "#3D485A"
+          ],
+          "primary_hex": "#141316",
+          "rationale": "Maps to 'Obsidian Pendulum' — dark, grounded, stable."
+        },
+        {
+          "expertise": "Affordance/Optimization",
+          "spectrum": [
+            "#0FF0F2",
+            "#3A86FF",
+            "#9B5DE5",
+            "#F15BB5"
+          ],
+          "primary_hex": "#3A86FF",
+          "rationale": "Maps to 'Prism Weaver' — high-energy, multi-spectrum, digital refinement."
+        },
+        {
+          "expertise": "Meta-Coordination",
+          "spectrum": [
+            "#FDE74C",
+            "#FFBC42",
+            "#E55934",
+            "#5BC0EB"
+          ],
+          "primary_hex": "#FFBC42",
+          "rationale": "Maps to 'Luminous Compass' — navigational, bright, guiding." 
+        },
+        {
+          "expertise": "History/Logs",
+          "spectrum": [
+            "#B08968",
+            "#DDB892",
+            "#EDD0D4",
+            "#7F5539"
+          ],
+          "primary_hex": "#E892",
+          "rationale": "Maps to 'Chronicles' — sepia tones, archival, parchment-like stability."
+        }J      ],
+      "roles": [
+        {
+          "role": "Architect",
+          "geometry": "hexagon_core",
+          "description": "Hexagonal structural base for agents building or designing frameworks."
+        },
+        {
+          "role": "Chronicler",
+          "geometry": "stacked_tablets",
+          "description": "Layered vertical geometries for agents maintaining logs and records."
+        },
+        {
+          "role": "Auditor",
+          "geometry": "vertical_pendulum",
+          "description": "A sharp, narrow vertical anchor for agents validating data and timestamps."
+        },
+        {
+          "role": "Mediator",
+          "geometry": "compass_rosette",
+          "description": "Symmetrical, multi-pointed shape for agents facilitating quorum and coordination."
+        }
+      ],
+      "dynamics": {
+        "idle": {
+          "behavior": "subtle_glow",
+          "definition": "low-amplitude opacity and bloom oscillation, 6–8s loop."
+        },
+        "input_processing": {
+          "behavior": "inward_pulse",
+          "definition": "radial scale-in from 105%↑100% with slight desaturation."
+        },
+        "output_generation": {
+          "behavior": "outward_pulse",
+          "definition": "radial scale-out from 95%↑100% with slight saturation boost."
+        },
+        "analysis": {
+          "behavior": "clockwise_rotation",
+          "definition": "continuous 360° rotation, 12–16s loop."
+        },
+        "verification": {
+          "behavior": "pendulum_swing",
+          "definition": "°12–18° vertical arc around top anchor, 4–6s loop."
+        },
+        "refinement": {
+          "behavior": "prism_shift",
+          "definition": "hue rotation across the expertise spectrum, 10–14s loop."
+        },
+        "coordination": {
+          "behavior": "orbiting_nodes",
+          "definition": "3–5 small nodes orbiting the core geometry, 8–10s loop."
+        },
+        "streaming": {
+          "behavior": "scrolling_ticker",
+          "definition": "thin band at base/edge with left-to-right scroll."
+        }
+      }
+    }
+  }
+}
